@@ -29,3 +29,7 @@ Retomando ao vídeo, aos $5:31$ minutos, o autor mostra como obter o endereço G
     style="display: block; margin: 0 auto"/>
     <figcaption> Biblioteca Python Pyvisa acessando endereços GPIB de instrumentos de laboratório. A saída do programa foi destacada no quadrado azul, à direita.</figcaption>
 </figure>
+
+O vídeo sugere também olhar o manual de instruções dos instrumentos para verificar os comandos computacionais que podem ser emitidos via GPIB.
+
+Eu parei aos $8:24$ no vídeo.

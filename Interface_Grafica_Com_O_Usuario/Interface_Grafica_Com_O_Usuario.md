@@ -9,3 +9,21 @@ O vídeo abaixo dá algumas dicas de como usar um touchscreen para criar uma int
 O vídeo abaixo contém 3 exemplos bem legais usando interface gráfica via tela LCD TFT.
 
 [Arduino TFT LCD Touch Screen Tutorial](https://www.youtube.com/watch?v=9Ms59ofSJIY)
+
+## Comunicação local e remota com o Ion Milling.
+
+O vídeo abaixo mostra me inspirou uma nova possibilidade:
+
+[Lab Instrumento Automation with Python](https://www.youtube.com/watch?v=xko8wzEBqfc)
+
+que é introduzir um paradigma misto, combinando o local, onde será possível controlar o equipamento diretamente via touchscreen, operado via Arduino ou ESP32, OU via computador pessoal, usando Pyvisa. Contudo, eu devo criar uma interface gráfica para o usuário que permitirá controlar os parâmetros do script feito em Pyvisa.
+
+Uma maneira de fazer isso pode ser o uso de um shield de comunicação ethernet para o caso do Arduino ou diretamente via ESP32, o qual vai se comunicar com o computador pessoal munido do Software.
+
+
+
+
+
+
+
+
