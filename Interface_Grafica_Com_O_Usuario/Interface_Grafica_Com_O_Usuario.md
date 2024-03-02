@@ -12,7 +12,7 @@ O vídeo abaixo contém 3 exemplos bem legais usando interface gráfica via tela
 
 ## Comunicação local e remota com o Ion Milling.
 
-O vídeo abaixo mostra me inspirou uma nova possibilidade:
+O vídeo abaixo mostra algo que me inspirou uma nova possibilidade:
 
 [Lab Instrumento Automation with Python](https://www.youtube.com/watch?v=xko8wzEBqfc)
 
@@ -20,10 +20,4 @@ que é introduzir um paradigma misto, combinando o local, onde será possível c
 
 Uma maneira de fazer isso pode ser o uso de um shield de comunicação ethernet para o caso do Arduino ou diretamente via ESP32, o qual vai se comunicar com o computador pessoal munido do Software.
 
-
-
-
-
-
-
-
+O vídeo mostra funcionalidades bastante legais, como automatização de aquisição de dados.
