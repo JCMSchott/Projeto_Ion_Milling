@@ -22,8 +22,6 @@ FTDI - USB/DB-25 | [Cabo serial FTDI - USB/DB-15](https://pt.aliexpress.com/item
   
 Produto | Endereço | Preço | Status
 --------|----------|-------|--------
-
 Arduino nano cabo USB | [Arduino nano v30-ch340 cabo usb](https://www.a2robotics.com.br/arduino-nano-v30-ch340-cabo-usb?utm_source=Site&utm_medium=GoogleShopping&utm_campaign=GooglePMax&gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZx-UNV2dMXVEWYzXrzyQp-TZayAWErpv3obK1wBV9Z2TNNyVfmGbrDhoCZe8QAvD_BwE) | $R\$35,90$ | Nacional
-
-Arduino nano cabo USB | [Eletrogate](www.eletrogate.com) | $10.00$ | Nacional
+Arduino nano v3 cabo USB | [Arduino nano v3 cabo USB - Eletrogate](https://www.eletrogate.com/nano-v3-0-cabo-usb-para-arduino?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&utm_source=google&utm_medium=cpc&utm_campaign=[MC4]_[G]_[PMax]_ArduinoRoboticaSensoresModuloss&utm_content=&utm_term=&gad_source=1&gclid=CjwKCAjw5ImwBhBtEiwAFHDZxzDLPfqPx7cN_24psS9OnR2gvv0d3-JYhUVMtZpp4Q6kT4J70zD9shoC7rMQAvD_BwE) | $49.90$ | Nacional
   
